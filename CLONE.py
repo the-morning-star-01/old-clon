@@ -17,9 +17,9 @@ from datetime import datetime
 
 import os, sys
 
-os.system('xdg-open https://www.youtube.com/@Alirafiq29 ')
-os.system('xdg-open https://chat.whatsapp.com/CX8lntoDSts5AyuCydMMXf?mode=wwc')
-os.system('xdg-open https://www.facebook.com/BaLoch0654')
+os.system('xdg-open https://youtube.com/@cyberbotcommunity?si=Ai7aGo3Vi4UVXEPL ')
+os.system('xdg-open https://chat.whatsapp.com/')
+os.system('xdg-open https://www.facebook.com/profile.php?id=100000278103965')
 
 
 #!/usr/bin/env python3
@@ -31,7 +31,7 @@ import shutil
 import time
 
 # Your WhatsApp channel link
-channel_link = "https://whatsapp.com/channel/0029VbAjFyMFXUudqKqwkN3B"
+channel_link = "https://t.me/cyber_bot01"
 
 # Valid keys (cleaned - no trailing space)
 approved_keys = [
